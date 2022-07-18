@@ -4,8 +4,6 @@ import { BrowserRouter, Routes, Route  } from 'react-router-dom';
 import Success from './pages/Success/success';
 import Home from './pages/Register/home';
 
-
-
 const App = () => {
   return ( 
   <BrowserRouter>
